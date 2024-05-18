@@ -1,7 +1,7 @@
 # NAME: Valorant
 # AUTHOR: LittleXingzzZ
 # REPO: https://github.com/Valorant/Clash
-# UPDATED: 2024.5.17
+# UPDATED: 2024-5-19
 payload:
   - IP-CIDR,1.13.27.0/24
   - IP-CIDR,1.13.136.0/24
