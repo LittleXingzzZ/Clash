@@ -8,6 +8,8 @@
 # TOTAL: 68
 payload:
   - DOMAIN-SUFFIX,oray.com
+  - DOMAIN-SUFFIX,oray.net
+  - DOMAIN-KEYWORD,oray
   - DOMAIN,api-std.sunlogin.oray.com
   - DOMAIN,s-tk.oray.com
   - DOMAIN,hsk-embed.oray.com
